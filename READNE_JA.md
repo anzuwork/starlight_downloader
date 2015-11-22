@@ -12,7 +12,7 @@ Starlight Stageで使用しているアセットをすべてダウンロード�
 
 ## ダウンロード
 
-**Download ZIP**より
+**[Download ZIP](https://github.com/anzuwork/starlight_downloader/archive/master.zip)**より
 
 ## 使い方
 

@@ -12,7 +12,7 @@ You can download all of the assets that are used in the Starlight Stage.
 
 ## Download
 
-Click **Download ZIP**
+Click **[Download ZIP](https://github.com/anzuwork/starlight_downloader/archive/master.zip)**
 
 ## Usage
 
