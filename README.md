@@ -8,9 +8,13 @@ Starlight Stageのアセットダウンローダー
 
 Since the App has changed the DB system.
 
+Will work if a version earlier than __10012760__.
+
 ## 現在動きません。
 
 アプリはDBシステムを変更したため。
+
+__10012760__より前のバージョン場合に動作します。
 
 ---
 
